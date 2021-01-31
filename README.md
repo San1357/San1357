@@ -2,7 +2,7 @@
 
 
 
-![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357&show_icons=true)
+
 
 ![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357&show_icons=true&theme=radical)
 
