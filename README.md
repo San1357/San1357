@@ -7,6 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San1357)](https://github.com/San1357/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San1357&exclude_repo=github-readme-stats,San1357.github.io)](https://github.com/San1357/github-readme-stats)
+
 
 
 <!--
