@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357)](https://github.com/San1357/github-readme-stats)
+
 ![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357&show_icons=true)
 
 ![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357&show_icons=true&theme=radical)
