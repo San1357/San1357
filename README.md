@@ -3,6 +3,8 @@
 [![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357)](https://github.com/San1357/github-readme-stats)
 ![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357&show_icons=true)
 
+![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357&show_icons=true&theme=radical)
+
 
 <!--
 **San1357/San1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
