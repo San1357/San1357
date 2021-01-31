@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/San1357/San1357/master/readme_header.png "Header")](https://San1357.dev/)
+
 [![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357)](https://github.com/San1357/github-readme-stats)
 ![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357&show_icons=true)
 
