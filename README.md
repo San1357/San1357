@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/San1357/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 [![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357)](https://github.com/San1357/github-readme-stats)
 ![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357&show_icons=true)
 
