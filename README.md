@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Namaste%30&fontSize=120" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Namaste%10&fontSize=120" />
 
 
 
