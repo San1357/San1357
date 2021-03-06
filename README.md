@@ -2,10 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 
-&color=auto : Proven random color. 
-&color=random : Really random color. 
-&color=gradient : Proven random gradient. 
-&color=_hexcode : default(#B897FF)
+&color=auto : 
+&color=random :  
+&color=gradient : 
+&color=_hexcode :
 
 
 
