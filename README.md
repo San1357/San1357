@@ -6,6 +6,8 @@
 
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=san1357)](https://github.com/san1357/github-readme-stats)
 ![Aayush GitHub stats](https://github-readme-stats.vercel.app/api?username=San1357&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San1357)](https://github.com/San1357/github-readme-stats)
